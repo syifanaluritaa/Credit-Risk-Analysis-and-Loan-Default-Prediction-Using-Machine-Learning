@@ -1,4 +1,4 @@
-# Credit-Risk-Analysis-and-Loan-Default-Prediction-Using-Machine-Learning
+# Credit Risk Analysis and Loan Default Prediction Using Machine Learning
 Proyek ini bertujuan untuk menganalisis risiko kredit dan memprediksi kemungkinan gagal bayar pinjaman (loan default prediction) menggunakan pendekatan machine learning. Analisis dilakukan untuk membantu institusi keuangan dalam meningkatkan kualitas pengambilan keputusan kredit, mengurangi risiko kredit macet (Non-Performing Loan/NPL), serta mendukung strategi manajemen risiko berbasis data. Dalam proyek ini dilakukan tahapan lengkap data science workflow mulai dari data preprocessing, exploratory data analysis (EDA), feature engineering, feature selection, pelatihan model machine learning, hingga evaluasi performa model.
 
 ## Objectives
